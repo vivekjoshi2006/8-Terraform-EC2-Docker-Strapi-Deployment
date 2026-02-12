@@ -123,3 +123,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
 >>>>>>> 22bc54ff (feat: setup terraform and dockerized strapi for aws deployment)
+
+
+---
+**Task 5 Completed by Vivek Joshi**
