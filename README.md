@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Strapi Deployment on AWS using Terraform & Docker
 
 ## Project Overview
